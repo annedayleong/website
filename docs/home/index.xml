@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Anne Day Leong PhD</title>
+    <link>annedayleong.github.io/home/</link>
+    <description>Recent content in Homes on Anne Day Leong PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Anne Day Leong</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="annedayleong.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>annedayleong.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>annedayleong.github.io/home/hero/</guid>
+      <description>(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })();
+function GetLatestReleaseInfo() { $.getJSON(&amp;lsquo;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&amp;lsquo;#academic-release&amp;rsquo;).text(&amp;lsquo;Latest release &amp;rsquo; + release.name);
+});
+}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>annedayleong.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>annedayleong.github.io/home/about/</guid>
+      <description>Biography Dr Anne Day Leong is an AAAS/SRCD Science and Technology Executive Fellow at the National Institutes of Health. Dr. Leong’s work at NIH focuses on the health and well-being of pregnant women and children, with particular focus on issues such as childhood obesity, substance abuse, and social and behavioral determinant of health. Prior to her work with NIH, Dr. Leong’s research focused on broad social welfare policy issues in early childhood, including early childhood education and the child protections system.</description>
+    </item>
+    
+    <item>
+      <title>Research to Policy</title>
+      <link>annedayleong.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>annedayleong.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research to Policy</title>
+      <link>annedayleong.github.io/home/research_to_policy/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>annedayleong.github.io/home/research_to_policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research To Policy</title>
+      <link>annedayleong.github.io/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>annedayleong.github.io/home/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>annedayleong.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>annedayleong.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>annedayleong.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>annedayleong.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>annedayleong.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>annedayleong.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+I am a teaching instructor for the following courses at University X:
+ CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>annedayleong.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>annedayleong.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Events</title>
+      <link>annedayleong.github.io/home/events/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>annedayleong.github.io/home/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>annedayleong.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>annedayleong.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>annedayleong.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>annedayleong.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
