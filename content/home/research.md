@@ -5,11 +5,11 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Research Topics"
+title = "Research To Policy"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 10
 
 # View.
 # Customize how projects are displayed.
