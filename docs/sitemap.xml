@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>https://annedayleong.github.io/website/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://annedayleong.github.io/website/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://annedayleong.github.io/website/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://annedayleong.github.io/website/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://annedayleong.github.io/website/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
+      <loc>https://annedayleong.github.io/website/publication/person-re-identification/</loc>
       <lastmod>2016-09-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>/project/policy/</loc>
+      <loc>https://annedayleong.github.io/website/project/policy/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/project/research/</loc>
+      <loc>https://annedayleong.github.io/website/project/research/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://annedayleong.github.io/website/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>/post/widgets/</loc>
+      <loc>https://annedayleong.github.io/website/post/widgets/</loc>
       <lastmod>2016-04-19T00:00:00-04:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>/post/managing-content/</loc>
+      <loc>https://annedayleong.github.io/website/post/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00-04:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>/post/writing-markdown-latex/</loc>
+      <loc>https://annedayleong.github.io/website/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-17T00:00:00-04:00</lastmod>
     </url>
     
@@ -113,7 +113,7 @@
     
     <url>
     
-      <loc>/post/faq/</loc>
+      <loc>https://annedayleong.github.io/website/post/faq/</loc>
       <lastmod>2016-04-10T00:00:00-04:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>https://annedayleong.github.io/website/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-04:00</lastmod>
     </url>
     
@@ -131,7 +131,7 @@
     
     <url>
     
-      <loc>/publication_types/7/</loc>
+      <loc>https://annedayleong.github.io/website/publication_types/7/</loc>
       <lastmod>2016-09-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -141,7 +141,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://annedayleong.github.io/website/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://annedayleong.github.io/website/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,7 +160,7 @@
     
     <url>
     
-      <loc>/tags/hugo/</loc>
+      <loc>https://annedayleong.github.io/website/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +170,7 @@
     
     <url>
     
-      <loc>/tags/jekyll/</loc>
+      <loc>https://annedayleong.github.io/website/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -180,7 +180,7 @@
     
     <url>
     
-      <loc>/tags/policy/</loc>
+      <loc>https://annedayleong.github.io/website/tags/policy/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,7 +190,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>https://annedayleong.github.io/website/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -200,7 +200,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://annedayleong.github.io/website/publication_types/</loc>
       <lastmod>2016-09-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -210,7 +210,7 @@
     
     <url>
     
-      <loc>/tags/research/</loc>
+      <loc>https://annedayleong.github.io/website/tags/research/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -220,7 +220,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://annedayleong.github.io/website/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

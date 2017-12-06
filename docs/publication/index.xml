@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Anne Day Leong PhD</title>
-    <link>/publication/</link>
+    <link>https://annedayleong.github.io/website/publication/</link>
     <description>Recent content in Publications on Anne Day Leong PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Anne Day Leong</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <atom:link href="/website/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Both Clinton and Trump are getting it wrong on child care</title>
-      <link>/publication/person-re-identification/</link>
+      <link>https://annedayleong.github.io/website/publication/person-re-identification/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>https://annedayleong.github.io/website/publication/person-re-identification/</guid>
       <description></description>
     </item>
     
