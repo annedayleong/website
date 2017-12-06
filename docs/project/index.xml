@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Anne Day Leong PhD</title>
-    <link>annedayleong.github.io/project/</link>
+    <link>annedayleong.github.io/website/project/</link>
     <description>Recent content in Projects on Anne Day Leong PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Anne Day Leong</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="annedayleong.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="annedayleong.github.io/website/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Policy</title>
-      <link>annedayleong.github.io/project/policy/</link>
+      <link>annedayleong.github.io/website/project/policy/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>annedayleong.github.io/project/policy/</guid>
+      <guid>annedayleong.github.io/website/project/policy/</guid>
       <description>Translating research into policy involves working in a few different fields. Much of my work so far has involved non-profit and NGO organizations, government agencies, and universities. Ultimately, I believe translating research into policy means creating a well-informed public. If government is to represent the will of the people, creating research-based policies must mean creating a well-informed public. My aim is to take research out of elite hands and make it accessible to the public and policymakers.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>annedayleong.github.io/project/research/</link>
+      <link>annedayleong.github.io/website/project/research/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>annedayleong.github.io/project/research/</guid>
+      <guid>annedayleong.github.io/website/project/research/</guid>
       <description>My research focuses primarily on policies impacting children and families, with a particular focus on policies in early childhood. Early childhood generally means pregnancy to five years old. In the United States, some of those early childhood policies include topics such as preschool education, childcare, family violence, and maternity leave. Internationally, the policies I’ve focused on include topics such as refugee children, stateless families, human trafficking, and child protections.</description>
     </item>
     
