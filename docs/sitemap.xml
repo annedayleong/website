@@ -1,200 +1,229 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>annedayleong.github.io/website/home/hero/</loc>
-    <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/research_to_policy/</loc>
-    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/research/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/publication/person-re-identification/</loc>
+      <lastmod>2016-09-09T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/project/policy/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/teaching/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/project/research/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/post/getting-started/</loc>
+      <lastmod>2017-09-03T00:00:00-04:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/events/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/post/widgets/</loc>
+      <lastmod>2016-04-19T00:00:00-04:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/tags/</loc>
-    <lastmod>2017-09-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/post/managing-content/</loc>
+      <lastmod>2016-04-18T00:00:00-04:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/post/writing-markdown-latex/</loc>
+      <lastmod>2016-04-17T00:00:00-04:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/talk/example-talk/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/post/faq/</loc>
+      <lastmod>2016-04-10T00:00:00-04:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/post/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00-04:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/tags/academic/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/publication_types/7/</loc>
+      <lastmod>2016-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/publication/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/</loc>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/talk/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/publication/person-re-identification/</loc>
-    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/tags/hugo/</loc>
+      <lastmod>2017-09-03T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/project/policy/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/tags/jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/project/research/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/tags/policy/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/post/getting-started/</loc>
-    <lastmod>2017-09-03T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/post/widgets/</loc>
-    <lastmod>2016-04-19T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/publication_types/</loc>
+      <lastmod>2016-09-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/post/managing-content/</loc>
-    <lastmod>2016-04-18T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/tags/research/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>annedayleong.github.io/website/post/writing-markdown-latex/</loc>
-    <lastmod>2016-04-17T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/post/faq/</loc>
-    <lastmod>2016-04-10T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/publication_types/7/</loc>
-    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/</loc>
-    <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/home/</loc>
-    <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/tags/hugo/</loc>
-    <lastmod>2017-09-03T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/tags/policy/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/publication_types/</loc>
-    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/tags/research/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>annedayleong.github.io/website/tags/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>annedayleong.github.io/website/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Anne Day Leong</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="annedayleong.github.io/website/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="annedayleong.github.io/website/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Both Clinton and Trump are getting it wrong on child care</title>
